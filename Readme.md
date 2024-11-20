@@ -1,4 +1,7 @@
-# Table of contents
+# DreamCoder is a wake-sleep algorithm that finds programs to solve a given set of tasks in a particular domain.
+
+
+###Table of contents
 1. [Overview](#overview)
 2. [Getting Started](#getting-started)
     1. [Getting the code](#getting-the-code)
